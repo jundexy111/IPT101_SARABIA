@@ -24,4 +24,3 @@ int main() {
 
 activity on to this day
 
-gutom na oks haha
