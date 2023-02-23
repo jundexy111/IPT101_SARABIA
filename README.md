@@ -23,3 +23,5 @@ int main() {
 "learning process 2"
 
 activity on to this day
+
+gutom na oks haha
