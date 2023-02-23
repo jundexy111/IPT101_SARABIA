@@ -24,3 +24,5 @@ int main() {
 
 activity on to this day 123
 
+gutom na oks 
+
